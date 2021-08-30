@@ -1,4 +1,4 @@
-- 👋 Chris Breuer, PhD @The1stMartian
-- 👀 I'm a biologist at Vanderbilt University
-- 🌱 I currently work at the intersection between genetics, evolution, and machine learning
-- 📫 Reach me at: c.breuer1 At outlook.com
+Christopher Breuer, PhD @The1stMartian
+Research Professor at Vanderbilt University
+Interests: The intersection between genetics, evolution, and machine learning
+Contact: c.breuer1 At outlook.com
