@@ -1,7 +1,9 @@
-# Christopher Breuer, PhD @The1stMartian
+# Christopher Breuer, PhD 
 
-## Research Professor at Vanderbilt University
+@The1stMartian
 
-## Interests: The intersection between genetics, evolution, and machine learning
+Research Professor at Vanderbilt University
 
-## Contact: c.breuer1 At outlook.com
+Interests: The intersection between genetics, evolution, and machine learning
+
+Contact: c.breuer1 At outlook.com
