@@ -1,7 +1,6 @@
 # Christopher Breuer, PhD 
 
-Research Professor at Vanderbilt University
+Senior Consultant at <a href="https://digitalinsights.qiagen.com/">Qiagen Digital Insights</a>
 
-Interests: Research at the intersection of genetics, evolution, and machine learning
-
+Interests: Genetics and bacterial evolution
 Contact: c.breuer1 At outlook.com
