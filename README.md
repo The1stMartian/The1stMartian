@@ -2,7 +2,7 @@
 
 <i>Bioinformatician & Molecular Biologist</i><br>
 
-- NGS Pipeline Development in Nextflow ([1](https://github.com/The1stMartian/Nextflow-Fastq-QC), [2](https://github.com/The1stMartian/Nextflow-RNA-Seq))<br>
+- NGS Pipeline Development in <b>Nextflow</b> ([1](https://github.com/The1stMartian/Nextflow-Fastq-QC), [2](https://github.com/The1stMartian/Nextflow-RNA-Seq))<br>
 
 - Bioinformatics ([1](https://pubmed.ncbi.nlm.nih.gov/30405125/), [2](https://pubmed.ncbi.nlm.nih.gov/28039230/),[3](https://pubmed.ncbi.nlm.nih.gov/35551437/))
 
